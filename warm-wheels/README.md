@@ -3,4 +3,3 @@
 [Tutorial Part 2](https://github.com/nesbox/TIC-80/wiki/Driving-Model)
 
 ![preview](./preview.gif)
-
